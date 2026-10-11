@@ -66,7 +66,7 @@ background-color: pink;
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.45),
                     rgba(255, 255, 255, 0.45)),
-    url("images/cookielandscape.jpg");
+    url("cookielandscape.jpg");
 
   background-size: cover;
   background-position: center;
